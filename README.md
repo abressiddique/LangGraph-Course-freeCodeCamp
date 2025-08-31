@@ -1,10 +1,5 @@
 # LangGraph Course
 
-**Video:** https://www.youtube.com/watch?v=jGg_1h0qzaM
-
-Repository for all of the code written for the FreeCodeCamp LangGraph Course, including solutions for all exercises. This repo provides practical examples of using [LangGraph](https://github.com/langchain-ai/langgraph) for building agent-based applications through Python scripts and interactive Jupyter notebooks.
-
----
 
 ## Table of Contents
 
